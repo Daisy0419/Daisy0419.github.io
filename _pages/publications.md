@@ -13,11 +13,8 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        {% capture heading %}
-        ## {{ category[1].title }}
-        ---
-        {% endcapture %}
-        {{ heading | markdownify }}
+        <h2>{{ category[1].title }}</h2>
+        <hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -28,3 +25,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
