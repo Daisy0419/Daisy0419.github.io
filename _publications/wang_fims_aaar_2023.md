@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fims-aaar/
 date: 2023-10-01
 venue: "Poster at American Association for Aerosol Research (AAAR)"
-citation: "Wang, Daisy. Real-time Analysis Pipeline for FIMS Instrument. Poster at AAAR, 2023."
+citation: "Wang, D., Zhang, J., Buhler, J., Wang, J. Real-time Analysis Pipeline for FIMS Instrument. Poster at AAAR, 2023."
 excerpt: "Poster presentation of a real-time multithreaded C++/Python pipeline for analyzing aerosol data from the FIMS instrument."
 category: poster
 ---
