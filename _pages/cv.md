@@ -27,7 +27,7 @@ Skills
 * **Programming**: C++, C, Python, Java, JavaScript, PHP, HTML/CSS  
 * **Libraries/Frameworks**: OpenCV, Boost, PyTorch, Keras, React, Express  
 * **Systems**: Unix/Linux scripting, networking (TCP/IP, WLAN, switching/routing)  
-* **Other**: Parallel computing, multithreading, LabVIEW integration
+<!-- * **Other**: Parallel computing, multithreading, LabVIEW integration -->
 
 <!-- Work experience
 ======
