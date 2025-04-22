@@ -10,7 +10,6 @@
 locale                   : "en-US"
 # site_theme               : "default"
 theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
 title                    : "Daisy Wang"
 title_separator          : "-"
 name                     : &name "Daisy Wang"
