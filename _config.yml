@@ -10,7 +10,7 @@
 locale                   : "en-US"
 # site_theme               : "default"
 remote_theme: "mmistakes/minimal-mistakes"
-title                    : "Daisy Wang"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Daisy Wang"
 description              : &description "Ph.D. student in Computer Science | Real-Time Systems | Parallel Computing"
