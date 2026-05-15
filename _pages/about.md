@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Daisy Wang**, a Ph.D. student in Computer Science at **Washington University in St. Louis**, advised by **Prof. Roch Guerin**.
+Hi, I’m **Daisy Wang**, a Ph.D. student in Computer Science at **Washington University in St. Louis**, currenltly advised by **Prof. Kunal Agrawal**.
+
+I am lucky to haved been advised by **Prof. Jeremy Buhler** and **Prof. Roch Guerin**.
 
 My research lies at the intersection of **real-time systems** and **parallel computing**, with broader interests in systems optimization and high-performance computing.
 
