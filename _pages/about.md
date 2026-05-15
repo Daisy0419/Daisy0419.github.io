@@ -9,9 +9,10 @@ redirect_from:
 
 Hi, I’m **Daisy Wang**, a Ph.D. student in Computer Science at **Washington University in St. Louis**, currenltly advised by **Prof. Kunal Agrawal**.
 
-I am lucky to haved been advised by **Prof. Jeremy Buhler** and **Prof. Roch Guerin**.
+I have also been fortunate to be advised by **Prof. Jeremy Buhler** and **Prof. Roch Guerin**.
 
-My research lies at the intersection of **real-time systems** and **parallel computing**, with broader interests in systems optimization and high-performance computing.
+<!-- My research lies at the intersection of **real-time systems** and **parallel computing**, with broader interests in systems optimization and high-performance computing. -->
+My research lies at the intersection of **real-time systems**, **parallel computing**, and **online algorithms**. I am interested in designing theoretically grounded and practically efficient algorithms for modern computing systems, including caching and high-bandwidth memory management, scheduling, resource allocation, and time-sensitive search problems such as telescope follow-up observation planning.
 
 Feel free to explore my [CV](/cv/), and [publications](/publications/)!
 

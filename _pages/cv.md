@@ -24,9 +24,16 @@ Publications
 
 Skills
 ======
-* **Programming**: C++, C, Python, Java, JavaScript, PHP, HTML/CSS  
-* **Libraries/Frameworks**: OpenCV, Boost, PyTorch, Keras, React, Express  
-* **Systems**: Unix/Linux scripting, networking (TCP/IP, WLAN, switching/routing)  
+
+* **Programming Languages**: C++, C, Python, Java, JavaScript, PHP, HTML/CSS  
+
+* **Parallel and High-Performance Computing**: MPI, OpenMP, Unix/Linux systems, performance profiling, load balancing, scientific computing workflows  
+
+* **Optimization and Algorithms**: Integer linear programming, approximation algorithms, online algorithms, scheduling, graph algorithms, orienteering / routing problems, heuristic search  
+
+* **Machine Learning and Probabilistic Modeling**: PyTorch, Keras, Gaussian processes, Bayesian modeling, MCMC  
+
+* **Software and Tools**: Git, CMake, Docker, Bash scripting, LaTeX, Gurobi, AMPL  
 <!-- * **Other**: Parallel computing, multithreading, LabVIEW integration -->
 
 <!-- Work experience
