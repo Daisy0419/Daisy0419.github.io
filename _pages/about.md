@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Daisy Wang**, a Ph.D. student in Computer Science at **Washington University in St. Louis**, currenltly advised by **Prof. Kunal Agrawal**.
+Hi, I’m **Daisy Wang**, a Ph.D. student in Computer Science at **Washington University in St. Louis**, currently advised by **Prof. Kunal Agrawal**.
 
 I have also been fortunate to be advised by **Prof. Jeremy Buhler** and **Prof. Roch Guerin**.
 
